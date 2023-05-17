@@ -1,0 +1,383 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.container{
+   margin: 0 auto;
+   max-width: 1440px;
+   padding: 0 165px;
+}
+.header {
+   margin: 0;
+   padding: 0;
+   border: 1px solid #281154;
+   width: 1530px;
+   height: 50px;
+   background-color: #281154;
+   box-shadow: 10px 10px 10px;
+   position: fixed;
+}
+.tunes {
+   display: flex;
+   margin-top: 8px;
+   color: white;
+   margin-left: 200px;
+}
+.beshlik {
+   display: flex;
+}
+.over {
+   color: #fff;
+   margin-top: 10px;
+   margin-left: 720px;
+}
+.music {
+   color: #fff;
+   margin-top: 10px;
+   margin-left: 35px;
+}
+.vedio {
+   color: #fff;
+      margin-top: 10px;
+      margin-left: 35px;
+}
+.gift {
+   color: #fff;
+      margin-top: 10px;
+      margin-left: 35px;
+}
+.photo {
+background-image: url("https://raw.githubusercontent.com/anshuopinion/10-Practice-Project-Html-CSS/master/Project%206/images/hero_image.png");
+   min-height: 100vh;
+   display: flex;
+  justify-content: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   }
+   .my {
+      color: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-left: 20px;
+      text-align: center;
+      font-size: 60px;
+   }
+   .write {
+      color: #fff;
+      margin-top: -320px;
+      margin-left: 565px;
+      display: flex;
+      font-size: 20px;
+   }
+   .loremm {
+      color: #fff;
+      margin-top: 20px;
+      margin-left: 360px;
+   }
+   .center {
+      width: 1530px;
+      height: 500px;
+      background-color: #301454;
+      margin-top: 257px;
+   }
+   .iconmusic {
+      color: #fff;
+      margin-left: 3px;
+         margin-top: 10px;
+   }
+   .ikkilik {
+      display: flex;
+      justify-content: center;
+   
+   }
+   .icons {
+      color: #fff;
+         margin-top: 10px;
+   }
+   .qator1  {
+      color: #fff;
+      margin-top: -460px;
+      margin-left: 200px;
+      
+   }
+   .qator2 {
+      color: #fff;
+      margin-left: 200px;
+      margin-top: 10px;
+   }
+   .qizil {
+      
+      width: 200px;
+      height: 30px;
+      background-color: red;
+      margin-left: 660px ;
+      margin-top: 20px;
+      color: #fff;
+      font-size: 20px;
+      text-align: center;
+   }
+   .xirayozuv {
+      text-align: center;
+      margin-top: 20px;
+      color: #fff;
+   }
+   .phone {
+      margin-top: 20px;
+      margin-left: 320px;
+      width: 400px;
+   }
+   .qalinyozuv{
+      margin-top: 110px;
+      text-align: center;
+   }
+.bir {
+   margin-left: 270px;
+   margin-top: 20px;
+   color: dimgrey;
+}
+.ikki {
+   margin-left: 295px;
+      margin-top: 5px;
+      color: dimgrey;
+}
+.uch {
+   margin-left: 305px;
+      margin-top: 5px;
+      color: dimgrey;
+}
+.turt {
+   margin-left: 435px;
+      margin-top: 5px;
+      color: dimgrey;
+}
+.read {
+   display: flex;
+   justify-content: center;
+   background-color: #281154;
+   width: 100px;
+   height: 20px;
+   color: #fff;
+   margin-left: 700px;
+   margin-top: 20px;
+}
+.rasm1 {
+   margin-top: 30px;
+   display: flex;
+   justify-content: center;
+}
+.rasm2 {
+   min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+
+}
+.rasm2 img{
+   width: 100%;
+}
+
+.world {
+   color: #fff;
+   margin-top: -650px;
+   font-size: 20px ;
+   text-align: center;
+}
+.uchqator {
+   margin-top: 20px;
+   color: #fff;
+   text-align: center;
+}
+.uchqator1 {
+   color: #fff;
+   text-align: center;
+}
+.uchqator2 {
+   color: #fff;
+   text-align: center ;
+}
+.three {
+   display: flex;
+}
+.one {
+
+   width: 400px;
+   height: 250px;
+   margin-top: 613px;
+   margin-left: 200px;
+}
+.phototo{
+   width: 400px;
+      height: 250px;
+
+      margin-left: 200px;
+}
+.two {
+   
+   width: 700px;
+   height: 200px;
+   margin-top: 613px;
+      margin-left: 100px;
+}
+.giftcard {
+   color: black;
+   margin-left: 10px;
+}
+.sqrt {
+      margin-left: 10px;  
+      margin-top: 10px; 
+}
+.cos {
+   margin-left: 10px;
+   margin-top: 20px;
+}
+.tugma {
+   display: flex;
+   justify-content: center;
+   margin-top: 45px;
+   width: 80px;
+   height: 30px;
+   background-color: #281154;
+   margin-left: 10px;
+   color: #fff;
+}
+.footer {
+   width: 1525px;
+   height: 190px;
+   background-color: #281154;
+}
+.birinchi {
+   margin-left: 200px;
+   margin-top: 20px;
+   color: #fff;
+}
+.ikkinchi {
+   margin-left: 200px;
+      margin-top: 20px;
+      color: #fff;
+}
+.hrhr {
+   margin-left: 200px;
+   width: 100px;
+}
+.uchinchi {
+   margin-left: 200px;
+   color: #fff;
+}
+.turtinchi {
+   margin-left: 200px;
+      color: #fff;
+}
+.beshinchi {
+   margin-left: 200px;
+      color: #fff;
+      
+}
+.oltinchi {
+   margin-left: 200px;
+      color: #fff;
+}
+.footer {
+   display: flex;
+}
+.birbir {
+   margin-top: 20px;
+   margin-left: 200px;
+      color: #fff;
+}
+.hrhrhr {
+   margin-left: 200px;
+      width: 100px;
+}
+.birikki {
+   margin-top: 20px;
+      margin-left: 200px;
+      color: #fff;
+}
+.biruch {
+      margin-left: 200px;
+      color: #fff;
+}
+.birturt {
+      margin-left: 200px;
+      color: #fff;
+}
+.birbesh {
+   margin-left: 200px;
+      color: #fff;
+}
+.birolti {
+   margin-left: 200px;
+      color: #fff;
+}
+.uchbir {
+   margin-top: 20px;
+      margin-left: 200px;
+      color: #fff;
+}
+.hrhrhrhr {
+   margin-left: 200px;
+      width: 150px;
+}
+.uchikki {
+   margin-top: 20px;
+      margin-left: 200px;
+      color: #fff;
+}
+.uchuch {
+   margin-left: 200px;
+      color: #fff;
+}
+.uchturt {
+   margin-left: 200px;
+      color: #fff;
+}
+.uchbesh {
+   margin-left: 200px;
+      color: #fff;
+}
+.ucholti {
+   margin-left: 200px;
+      color: #fff;
+}
+.turtbir {
+   margin-top: 20px;
+      margin-left: 200px;
+      color: #fff;
+}
+.qr {
+   margin-left: 200px;
+      width: 100px;
+}
+.turtikki {
+   margin-top: 20px;
+   margin-left: 200px;
+      color: #fff;
+}
+.turtuch {
+   margin-left: 200px;
+      color: #fff;
+}
+.turtturt {
+   margin-left: 200px;
+      color: #fff;
+}
+.turtbesh{
+   margin-left: 200px;
+      color: #fff;
+}
+.turtolti {
+   margin-left: 200px;
+      color: #fff;
+}
+.tagi {
+   width: 1525px;
+   height: 25px;
+   background-color: #301454;
+   color: #fff;
+   text-align: center;
+}
